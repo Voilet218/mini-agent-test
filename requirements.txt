@@ -1,0 +1,3 @@
+# Minimal Agent - 依赖
+# 本项目使用 Python 标准库实现，无需任何第三方依赖！
+# 仅需 Python 3.9+ 和网络连接（调用 LLM API）
