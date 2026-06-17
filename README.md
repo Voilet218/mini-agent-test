@@ -1,3 +1,6 @@
+
+<img width="787" height="628" alt="image" src="https://github.com/user-attachments/assets/d4c15940-3b5c-478b-b81a-2efc8c2d05c0" />
+
 # 🤖 Minimal Agent — 从零实现的最小可用 Agent
 
 > 笔试题：不使用现成 Agent 框架，从零实现一个最小可用 Agent。
