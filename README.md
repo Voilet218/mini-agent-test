@@ -1,4 +1,6 @@
 
+<img width="1500" height="1230" alt="image" src="https://github.com/user-attachments/assets/c56877a7-667c-4ef1-bec6-c601c4d3cfce" />
+
 <img width="787" height="628" alt="image" src="https://github.com/user-attachments/assets/d4c15940-3b5c-478b-b81a-2efc8c2d05c0" />
 
 # 🤖 Minimal Agent — 从零实现的最小可用 Agent
